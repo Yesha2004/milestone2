@@ -5,7 +5,7 @@ Add a Book (Insertion):
 Open Postman and create a new POST request                                                                                                                          
 URL: http://localhost:3000/books                                                                                                                                    
 Go to the Body tab, select raw, and choose JSON format.                                                                                                             
-Enter the data for a new book:                                                                                                                                                                                       
+Enter the data for a new book.                                                                                                                                                                                       
 Click Send.                                                                                                                                                         
 ![insert](https://github.com/user-attachments/assets/bcbc6862-c8d9-4139-9e84-906384940902)
 
