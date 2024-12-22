@@ -19,7 +19,7 @@ Search for a Book:
 Create a new GET request                                                                                                                                            
 URL: http://localhost:3000/books/1                                                                                                                                  
 Click Send.                                                                                                                                                         
-![search](https://github.com/user-attachments/assets/cd811ec1-5c84-4e51-a24b-bac6df5d68e5)
+![search](https://github.com/user-attachments/assets/ae4f01cb-60bf-4cd2-83e8-57f2153c9acb)
 
 Display All Books (In-order Traversal):                                                
 
